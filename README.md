@@ -8,6 +8,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 3. *Repeat Name Program *: A simple Python function that repeats a give text multiple time using function parameter and return values.
 4. *Contact Book *: A simple python program that stores and displays contact name and phone numbers using dictionaries and loops.
 5. *ATM_Machine* : A beginner-friendly python project that simulates basic ATM operations such as balance inquiry cash,deposite and cash withdrawal.
+6. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
 
 #Author#
 
