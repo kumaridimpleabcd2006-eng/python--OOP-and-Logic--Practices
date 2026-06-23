@@ -10,6 +10,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 5. *ATM_Machine* : A beginner-friendly python project that simulates basic ATM operations such as balance inquiry cash,deposite and cash withdrawal.
 6. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
 7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.
-#Author#
+8. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
+ #Author#
 
 **Dimple Kumari**
