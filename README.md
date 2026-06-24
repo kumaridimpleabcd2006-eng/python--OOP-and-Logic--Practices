@@ -11,6 +11,8 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 6. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
 7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.
 8. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
+9. *Student Marks Analyzer* : This python program analyze student marks stored in a list .
+    
  #Author#
 
 **Dimple Kumari**
