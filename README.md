@@ -14,12 +14,19 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 9. *Student Marks Analysis* : This python program analyze student marks stored in a list .
 10. *Student Result Analysis* : A simple program that analyzer student marks using lists.
     ## Features
-    -calculate total marks
-    -find average marks
-    -find highear marks
-    -find lowaet marks
-    -count student
-    -check pass/fail status
+-calculate total marks
+-find average marks
+-find highear marks
+-find lowaet marks
+-count student
+-check pass/fail status
+ 12. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
+## Features
+- Total marks
+- Average marks
+- Highest & lowest marks
+- Pass students
+    
     
  #Author#
 
