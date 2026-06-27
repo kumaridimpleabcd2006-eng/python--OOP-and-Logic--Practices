@@ -20,7 +20,8 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -find lowaet marks
 -count student
 -check pass/fail status
- 12. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
+
+ 11. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
 ## Features
 - Total marks
 - Average marks
