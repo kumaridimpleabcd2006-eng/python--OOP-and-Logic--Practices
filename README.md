@@ -27,7 +27,13 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Average marks
 - Highest & lowest marks
 - Pass students
-    
+12. * Employee Management System*:  A Python program to manage employee records using dictionaries.
+## Features
+- Add Employee
+- View Employees
+- Search Employee
+- Update Salary
+- Delete Employee 
     
  #Author#
 
