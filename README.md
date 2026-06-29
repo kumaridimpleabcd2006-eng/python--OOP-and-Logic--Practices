@@ -22,19 +22,25 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -check pass/fail status
 
  11. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
-## Features
+# Features #
 - Total marks
 - Average marks
 - Highest & lowest marks
 - Pass students
 12. * Employee Management System*:  A Python program to manage employee records using dictionaries.
-## Features
+# Features #
 - Add Employee
 - View Employees
 - Search Employee
 - Update Salary
-- Delete Employee 
-    
+- Delete Employee
+ 13. *Shopping Cart System* : A simple Python program shopping cart appplication using a dictionaries.
+  # Features #
+  -Add items
+  -View items
+  -Search items
+  -Remove items
+  -Calculate items
  #Author#
 
 **Dimple Kumari**
