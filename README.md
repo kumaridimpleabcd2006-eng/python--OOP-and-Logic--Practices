@@ -49,6 +49,12 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Update Book
   -Delete Book
   -Total Book
+15.*Read file* : A simple python program that reads data from a text.file(note.txt) and display the content on the screen using python file handling.
+  #Features#
+  -Open a file in read mode
+  -read file content
+  -Display content
+  -close the file
 
   
  #Author#
