@@ -55,6 +55,12 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -read file content
   -Display content
   -close the file
+16. *Simple note manager * : A beginner-friendly python project using file handling.
+  #Features#
+  -Add note
+  -View note
+  -Delete note
+  -Exit
 
   
  #Author#
