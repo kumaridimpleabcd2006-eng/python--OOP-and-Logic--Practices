@@ -61,6 +61,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -View note
   -Delete note
   -Exit
+17. *student record manager* : A beginner-friendly mini file handling project. 
 
   
  #Author#
