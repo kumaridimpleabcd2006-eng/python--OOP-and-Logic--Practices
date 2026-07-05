@@ -61,7 +61,8 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -View note
   -Delete note
   -Exit
-17. *student record manager* : A beginner-friendly mini file handling project. 
+17. *student record manager* : A beginner-friendly mini file handling project.
+18. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen. 
 
   
  #Author#
