@@ -34,6 +34,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Search Employee
 - Update Salary
 - Delete Employee
+  
  13. *Shopping Cart System* : A simple Python program shopping cart appplication using a dictionaries.
   # Features #
   -Add items
@@ -41,6 +42,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Search items
   -Remove items
   -Calculate items
+  
 14. A simple python project to manage books using dictionaries.
   #Features #
   -Add Book
@@ -49,20 +51,24 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Update Book
   -Delete Book
   -Total Book
+
 15.*Read file* : A simple python program that reads data from a text.file(note.txt) and display the content on the screen using python file handling.
   #Features#
   -Open a file in read mode
   -read file content
   -Display content
   -close the file
+  
 16. *Simple note manager * : A beginner-friendly python project using file handling.
   #Features#
   -Add note
   -View note
   -Delete note
   -Exit
-17. *student record manager* : A beginner-friendly mini file handling project.
-18. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen. 
+
+18. *student record manager* : A beginner-friendly mini file handling project.
+    
+20. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen. 
 
   
  #Author#
