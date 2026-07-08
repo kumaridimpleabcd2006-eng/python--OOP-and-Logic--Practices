@@ -68,8 +68,9 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 
 18. *student record manager* : A beginner-friendly mini file handling project.
     
-20. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen. 
-21. *Contact Book* : A simple  python project.
+20. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen.
+    
+22. *Contact Book* : A simple  python contact book project.
     
 #Features#
 -Add contact
