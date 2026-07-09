@@ -78,6 +78,8 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -Search contact
 -Delete contact
 
+23. *function* : Thid repository contains beginner python function programs.
+ 
   
  #Author#
 
