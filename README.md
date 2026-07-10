@@ -79,6 +79,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -Delete contact
 
 23. *function* : Thid repository contains beginner python function programs.
+24. *Count digit* : This is a bedinner-friendly puthon project that counts the number of digits in a given  string usind a function a foe loop and the isdigit() method.
  
   
  #Author#
