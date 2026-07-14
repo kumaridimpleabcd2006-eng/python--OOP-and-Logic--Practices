@@ -1,0 +1,5 @@
+file = open("note.txt","r")
+content = file.readlines()
+count = len(content)
+print("Total line",count)
+file.close()
