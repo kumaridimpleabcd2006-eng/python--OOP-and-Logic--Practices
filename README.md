@@ -83,6 +83,9 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 25. *Palindrome checker* : A simple python program that checks whether a give string is a palindrome or not using a function and a for loop.
 27. *Count digit* : A simple python program check the count digit.
 28. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the user.
+29. *Count line* : This is a simple program that count the line .
+
+    
  #Author#
 
 **Dimple Kumari**
