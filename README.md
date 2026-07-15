@@ -70,7 +70,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
     
 20. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen.
     
-22. *Contact Book* : A simple  python contact book project.
+22. *Contact Book* : A simple  python contact book application built using python.
     
 #Features#
 -Add contact
