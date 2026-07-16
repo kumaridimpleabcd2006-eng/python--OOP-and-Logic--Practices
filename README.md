@@ -4,15 +4,22 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 
 ## Projects Included:
 1. *Python Calculator*: A simple calculator performing basic arithmetic operations.
-2. *Smartphone Simulator and Smart Assistant*: An OOP-based simulation that creates a Smartphone class with properties like brand and storage, and includes a realistic ringing sound system (winsound.Beep).
-3. *Repeat Name Program *: A simple Python function that repeats a give text multiple time using function parameter and return values.
-4. *Contact Book *: A simple python program that stores and displays contact name and phone numbers using dictionaries and loops.
-5. *ATM_Machine* : A beginner-friendly python project that simulates basic ATM operations such as balance inquiry cash,deposite and cash withdrawal.
-6. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
-7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.
-8. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
-9. *Student Marks Analysis* : This python program analyze student marks stored in a list .
-10. *Student Result Analysis* : A simple program that analyzer student marks using lists.
+
+3. *Smartphone Simulator and Smart Assistant*: An OOP-based simulation that creates a Smartphone class with properties like brand and storage, and includes a realistic ringing sound system (winsound.Beep).
+   
+5. *Repeat Name Program *: A simple Python function that repeats a give text multiple time using function parameter and return values.
+   
+7. *Contact Book *: A simple python program that stores and displays contact name and phone numbers using dictionaries and loops.
+   
+9. *ATM_Machine* : A beginner-friendly python project that simulates basic ATM operations such as balance inquiry cash,deposite and cash withdrawal.
+    
+11. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
+    
+13. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.89. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
+    
+15. *Student Marks Analysis* : This python program analyze student marks stored in a list .
+    
+17. *Student Result Analysis* : A simple program that analyzer student marks using lists.
     ## Features
 -calculate total marks
 -find average marks
@@ -27,6 +34,8 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Average marks
 - Highest & lowest marks
 - Pass students
+
+  
 12. * Employee Management System*:  A Python program to manage employee records using dictionaries.
 # Features #
 - Add Employee
