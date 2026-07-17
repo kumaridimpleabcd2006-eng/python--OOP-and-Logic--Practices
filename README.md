@@ -3,23 +3,24 @@
 A collection of Python programs demonstrating Object-Oriented Programming (OOP) concepts, logic building, and problem solving skills.
 
 ## Projects Included:
+
 1. *Python Calculator*: A simple calculator performing basic arithmetic operations.
 
-3. *Smartphone Simulator and Smart Assistant*: An OOP-based simulation that creates a Smartphone class with properties like brand and storage, and includes a realistic ringing sound system (winsound.Beep).
+2. *Smartphone Simulator and Smart Assistant*: An OOP-based simulation that creates a Smartphone class with properties like brand and storage, and includes a realistic ringing sound system (winsound.Beep).
    
-5. *Repeat Name Program *: A simple Python function that repeats a give text multiple time using function parameter and return values.
+3. *Repeat Name Program *: A simple Python function that repeats a give text multiple time using function parameter and return values.
    
-7. *Contact Book *: A simple python program that stores and displays contact name and phone numbers using dictionaries and loops.
+4. *Contact Book *: A simple python program that stores and displays contact name and phone numbers using dictionaries and loops.
    
-9. *ATM_Machine* : A beginner-friendly python project that simulates basic ATM operations such as balance inquiry cash,deposite and cash withdrawal.
+5. *ATM_Machine* : A beginner-friendly python project that simulates basic ATM operations such as balance inquiry cash,deposite and cash withdrawal.
     
-11. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
+6. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
     
-13. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.89. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
+7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.89. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
     
-15. *Student Marks Analysis* : This python program analyze student marks stored in a list .
+8. *Student Marks Analysis* : This python program analyze student marks stored in a list .
     
-17. *Student Result Analysis* : A simple program that analyzer student marks using lists.
+9. *Student Result Analysis* : A simple program that analyzer student marks using lists.
     ## Features
 -calculate total marks
 -find average marks
@@ -28,7 +29,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -count student
 -check pass/fail status
 
- 11. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
+ 10. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
 # Features #
 - Total marks
 - Average marks
@@ -36,7 +37,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Pass students
 
   
-12. * Employee Management System*:  A Python program to manage employee records using dictionaries.
+11. * Employee Management System*:  A Python program to manage employee records using dictionaries.
 # Features #
 - Add Employee
 - View Employees
@@ -44,7 +45,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Update Salary
 - Delete Employee
   
- 13. *Shopping Cart System* : A simple Python program shopping cart appplication using a dictionaries.
+ 12. *Shopping Cart System* : A simple Python program shopping cart appplication using a dictionaries.
   # Features #
   -Add items
   -View items
@@ -52,7 +53,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Remove items
   -Calculate items
   
-14. A simple python project to manage books using dictionaries.
+13. A simple python project to manage books using dictionaries.
   #Features #
   -Add Book
   -View Book
@@ -61,25 +62,25 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Delete Book
   -Total Book
 
-15.*Read file* : A simple python program that reads data from a text.file(note.txt) and display the content on the screen using python file handling.
+14.*Read file* : A simple python program that reads data from a text.file(note.txt) and display the content on the screen using python file handling.
   #Features#
   -Open a file in read mode
   -read file content
   -Display content
   -close the file
   
-16. *Simple note manager * : A beginner-friendly python project using file handling.
+15. *Simple note manager * : A beginner-friendly python project using file handling.
   #Features#
   -Add note
   -View note
   -Delete note
   -Exit
 
-18. *student record manager* : A beginner-friendly mini file handling project.
+16. *student record manager* : A beginner-friendly mini file handling project.
     
-20. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen.
+17. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen.
     
-22. *Contact Book* : A simple  python contact book application built using python.
+18. *Contact Book* : A simple  python contact book application built using python.
     
 #Features#
 -Add contact
@@ -87,12 +88,12 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -Search contact
 -Delete contact
 
-23. *function* : Thid repository contains beginner python function programs.
-24. *Count digit* : This is a bedinner-friendly puthon project that counts the number of digits in a given  string usind a function a foe loop and the isdigit() method.
-25. *Palindrome checker* : A simple python program that checks whether a give string is a palindrome or not using a function and a for loop.
-27. *Count digit* : A simple python program check the count digit.
-28. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the user.
-29. *Count line* : This is a simple program that count the line .
+19. *function* : Thid repository contains beginner python function programs.
+20. *Count digit* : This is a bedinner-friendly puthon project that counts the number of digits in a given  string usind a function a foe loop and the isdigit() method.
+21. *Palindrome checker* : A simple python program that checks whether a give string is a palindrome or not using a function and a for loop.
+22. *Count digit* : A simple python program check the count digit.
+23. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the user.
+24. *Count line* : This is a simple program that count the line .
 
     
  #Author#
