@@ -98,7 +98,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
     
 23. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the user.
     
-24. *Count line* : This is a simple program that count the line .
+24. *Count line* : This is a simple program that count line .
 
     
  #Author#
