@@ -88,13 +88,13 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -Search contact
 -Delete contact
 
-19. *function* : Thid repository contains beginner python function programs.
+19. *function* : Thid repository contains beginner python function program.
     
 20. *Count digit* : This is a bedinner-friendly puthon project that counts the number of digits in a given  string usind a function a foe loop and the isdigit() method.
     
 21. *Palindrome checker* : A simple python program that checks whether a give string is a palindrome or not using a function and a for loop.
     
-22. *Count digit* : A simple python program check the count digit.
+22. *Count digit* : A simple python program check the count the digit.
     
 23. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the user.
     
