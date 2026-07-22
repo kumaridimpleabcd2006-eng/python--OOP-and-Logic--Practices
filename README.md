@@ -2,7 +2,7 @@
 
 A collection of Python programs demonstrating Object-Oriented Programming (OOP) concepts, logic building, and problem solving skills.
 
-## Projects Included:
+## Projects Included
 
 1. *Python Calculator*: A simple calculator performing basic arithmetic operations.
 
