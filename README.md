@@ -18,7 +18,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
     
 7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.89. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
     
-8. *Student Marks Analysis* : This python program analyze student marks stored in a list .
+8. *Student Marks Analysis* : This python program analyze student marks stored in a list.
     
 9. *Student Result Analysis* : A simple program that analyzer student marks using lists.
     ## Features
