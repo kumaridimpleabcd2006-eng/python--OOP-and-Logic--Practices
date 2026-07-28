@@ -1,6 +1,6 @@
 # Python OOP and Logic Practices
 
-A collection of Python programs demonstrating Object-Oriented Programming (OOP) concepts, logic building, and problem solving skills.
+A collection of Python programs demonstrating Object-Oriented Programming (OOP) concepts, logic building, and  problem solving skills.
 
 ## Projects Included
 
