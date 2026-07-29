@@ -16,11 +16,13 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
     
 6. *Student_Grade* : A simple python program that uses a while loop and conditional statement to display grade based on the users choice.
     
-7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.89. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
+7. *To-Do list* : A simple python program that allow users to enter tasks ans display them as a To-Do list.
+
+8. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
     
-8. *Student Marks Analysis* : This python program analyze student marks stored in a list.
+9. *Student Marks Analysis* : This python program analyze student marks stored in a list.
     
-9. *Student Result Analysis* : A simple program that analyzer student marks using lists.
+10. *Student Result Analysis* : A simple program that analyzer student marks using lists.
     ## Features
 -calculate total marks
 -find average marks
@@ -29,7 +31,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -count student
 -check pass/fail status
 
- 10. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
+ 11. *Student Marks Dictionary* :  A simple Python program to manage student marks using a dictionary.
 # Features #
 - Total marks
 - Average marks
@@ -37,7 +39,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Pass students
 
   
-11. * Employee Management System*:  A Python program to manage employee records using dictionaries.
+12. * Employee Management System*:  A Python program to manage employee records using dictionaries.
 # Features #
 - Add Employee
 - View Employees
@@ -45,7 +47,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 - Update Salary
 - Delete Employee
   
- 12. *Shopping Cart System* : A simple Python program shopping cart appplication using a dictionaries.
+ 13. *Shopping Cart System* : A simple Python program shopping cart appplication using a dictionaries.
   # Features #
   -Add items
   -View items
@@ -53,7 +55,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Remove items
   -Calculate items
   
-13. A simple python project to manage books using dictionaries.
+14. A simple python project to manage books using dictionaries.
   #Features #
   -Add Book
   -View Book
@@ -62,7 +64,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Delete Book
   -Total Book
 
-14.*Read file* : A simple python program that reads data from a text.file(note.txt) and display the content on the screen using python file handling.
+15.*Read file* : A simple python program that reads data from a text.file(note.txt) and display the content on the screen using python file handling.
   #Features#
   -Open a file in read mode
   -read file content
