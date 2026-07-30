@@ -71,18 +71,18 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -Display content
   -close the file
   
-15. *Simple note manager * : A beginner-friendly python project using file handling.
+16. *Simple note manager * : A beginner-friendly python project using file handling.
   #Features#
   -Add note
   -View note
   -Delete note
   -Exit
 
-16. *student record manager* : A beginner-friendly mini file handling project.
+17. *student record manager* : A beginner-friendly mini file handling project.
     
-17. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen.
+18. *Student Marks Record System* : A simple python script to take student detail from the user,save them to 'note.txt' and display the file content on the screen.
     
-18. *Contact Book* : A simple  python contact book application built using python.
+19. *Contact Book* : A simple  python contact book application built using python.
     
 #Features#
 -Add contact
@@ -90,17 +90,17 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 -Search contact
 -Delete contact
 
-19. *function* : Thid repository contains beginner python function program.
+20. *function* : Thid repository contains beginner python function program.
     
-20. *Count digit* : This is a bedinner-friendly puthon project that counts the number of digits in a given  string usind a function a foe loop and the isdigit() method.
+21. *Count digit* : This is a bedinner-friendly puthon project that counts the number of digits in a given  string usind a function a foe loop and the isdigit() method.
     
-21. *Palindrome checker* : A simple python program that checks whether a give string is a palindrome or not using a function and a for loop.
+22. *Palindrome checker* : A simple python program that checks whether a give string is a palindrome or not using a function and a for loop.
     
-22. *Count digit* : A simple python program check the count the digits.
+23. *Count digit* : A simple python program check the count the digits.
     
-23. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the users.
+24. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the users.
     
-24. *Count line* : This is a simple program that count line.
+25. *Count line* : This is a simple program that count line.
 
     
  #Author#
