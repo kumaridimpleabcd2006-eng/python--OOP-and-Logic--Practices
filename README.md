@@ -20,7 +20,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 
 8. *Array sum program* : This is a simple python  program that stores numbers in a list and  add fist two numbers.
     
-9. *Student Marks Analysis* : This python program analyze student marks stored in a list.
+9. *Student Marks Analysis* : This python program analyze students marks stored in a list.
     
 10. *Student Result Analysis* : A simple program that analyzer student marks using lists.
     ## Features
