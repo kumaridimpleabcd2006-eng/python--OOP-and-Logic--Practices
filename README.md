@@ -53,10 +53,10 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
   -View items
   -Search items
   -Remove items
-  -Calculate items
+  -Calculate items 
   
 14. A simple python project to manage books using dictionaries.
-  #Features #
+  #Features#
   -Add Book
   -View Book
   -Search Book
