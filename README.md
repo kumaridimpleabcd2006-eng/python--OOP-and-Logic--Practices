@@ -101,6 +101,7 @@ A collection of Python programs demonstrating Object-Oriented Programming (OOP) 
 24. *Count Uppercase* : This is a simple program that count the number of upperase letter in a give string entered by the users.
     
 25. *Count line* : This is a simple  program that count line.
+26. *BankAccount_encapsulation* : A python project demonstrating Encapsulation using a bank account.it is include private balance ,deposit, withdrawal and balance cheacking methods.
 
     
  #Author#
